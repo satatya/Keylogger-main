@@ -29,7 +29,7 @@ This project is a simple keylogger implemented in Python. A keylogger is a tool 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/keylogger-project.git
+    git clone https://github.com/satatya/Keylogger-main.git
     cd keylogger-project
     ```
 
